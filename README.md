@@ -37,7 +37,6 @@ chmod +x pip_offline_installer.sh
 - [Installation Guide](docs/installation.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Platform-Specific Guide](docs/platform_guide.md)
-- [Advanced Usage](docs/advanced_usage.md)
 
 ## 🤝 Contributing
 

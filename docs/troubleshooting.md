@@ -1,4 +1,4 @@
-## 3. TROUBLESHOOTING GUIDE
+## TROUBLESHOOTING GUIDE
 
 ### Problem 1: "No matching distribution found"
 **Cause:** Package downloaded for wrong platform or Python version

@@ -1,4 +1,4 @@
-## 4. PLATFORM COMPATIBILITY CHART
+## PLATFORM COMPATIBILITY CHART
 
 | Platform | Python Version | Platform Tag | Example Command |
 |----------|---------------|--------------|-----------------|
