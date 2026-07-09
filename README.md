@@ -1,4 +1,4 @@
-# PIP Offline Package Installer
+# Python Package Offline Installer (PIP Offline Installer)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -37,6 +37,32 @@ chmod +x pip_offline_installer.sh
 - [Installation Guide](docs/installation.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Platform-Specific Guide](docs/platform_guide.md)
+
+## 5. GITHUB REPOSITORY SETUP GUIDE
+
+### Repository Structure
+```
+
+PythonPackageOfflineInst/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── scripts/
+│   ├── windows/
+│   │   └── pip_offline_installer.bat
+│   └── unix/
+│       └── pip_offline_installer.sh
+├── examples/
+│   ├── requirements_data_science.txt
+│   ├── requirements_web_dev.txt
+│   ├── requirements_ml.txt
+│   └── requirements_automation.txt
+└── docs/
+    ├── installation.md
+    ├── troubleshooting.md
+    └── platform_guide.md
+
+```
 
 ## 🤝 Contributing
 
