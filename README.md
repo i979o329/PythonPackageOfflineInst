@@ -38,7 +38,7 @@ chmod +x pip_offline_installer.sh
 - [Troubleshooting](docs/troubleshooting.md)
 - [Platform-Specific Guide](docs/platform_guide.md)
 
-## 5. GITHUB REPOSITORY SETUP GUIDE
+## GITHUB REPOSITORY GUIDE
 
 ### Repository Structure
 ```
