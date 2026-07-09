@@ -6,7 +6,7 @@
 
 Automate Python package installation without internet connection. Perfect for air-gapped systems, secure environments, and restricted networks.
 
-📺 **[Watch the Tutorial on YouTube](YOUR_VIDEO_LINK)**
+📺 **[Watch the Tutorial on YouTube](https://youtu.be/Aub99HJtVvk)**
 
 ## ✨ Features
 
