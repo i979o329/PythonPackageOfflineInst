@@ -51,8 +51,8 @@ MIT License - see [LICENSE](LICENSE) file
 ## 👤 Author
 
 **ioWiz**
-- YouTube: [@ioWiz](YOUR_CHANNEL_LINK)
-- GitHub: [@yourhandle](YOUR_GITHUB_LINK)
+- YouTube: [@ioWiz](https://www.youtube.com/@ioWiz)
+- GitHub: [@i979o329](https://github.com/i979o329)
 
 ## ⭐ Support
 
